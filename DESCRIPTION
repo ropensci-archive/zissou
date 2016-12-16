@@ -11,7 +11,8 @@ BugReports: https://github.com/ropenscilabs/zissou/issues
 LazyData: true
 Imports:
     crul (>= 0.1.4),
-    xml2,
-    data.table
+    xml2 (>= 1.0.0),
+    data.table (>= 1.10.0),
+    tibble (>= 1.2)
 RoxygenNote: 5.0.1
 Remotes: ropensci/crul
