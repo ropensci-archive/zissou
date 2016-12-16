@@ -10,6 +10,8 @@ zs_fetch(x, path, ...)
 \item{x}{a url for a csv file. required.}
 
 \item{path}{a path to write to. required.}
+
+\item{...}{curl options}
 }
 \description{
 Fetch Map Data (HSPEC)

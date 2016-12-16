@@ -3,6 +3,7 @@
 #' @export
 #' @param x a url for a csv file. required.
 #' @param path a path to write to. required.
+#' @param ... curl options
 #' @examples \dontrun{
 #' tmpf <- tempfile(fileext = ".csv")
 #' zs_fetch(
