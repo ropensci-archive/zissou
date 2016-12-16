@@ -2,7 +2,7 @@ Package: zissou
 Type: Package
 Title: 'AquaMaps' Interface
 Description: 'AquaMaps' Interface.
-Version: 0.0.2.9200
+Version: 0.0.2.9210
 Authors@R: c(person("Scott", "Chamberlain", role = c("aut", "cre"),
     email = "myrmecocystus@gmail.com"))
 License: MIT + file LICENSE
