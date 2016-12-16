@@ -1,0 +1,17 @@
+Package: zissou
+Type: Package
+Title: 'AquaMaps' Interface
+Description: 'AquaMaps' Interface.
+Version: 0.0.2.9200
+Authors@R: c(person("Scott", "Chamberlain", role = c("aut", "cre"),
+    email = "myrmecocystus@gmail.com"))
+License: MIT + file LICENSE
+URL: https://github.com/ropenscilabs/zissou
+BugReports: https://github.com/ropenscilabs/zissou/issues
+LazyData: true
+Imports:
+    crul (>= 0.1.4),
+    xml2,
+    data.table
+RoxygenNote: 5.0.1
+Remotes: ropensci/crul
