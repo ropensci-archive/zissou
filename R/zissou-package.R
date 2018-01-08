@@ -1,6 +1,7 @@
 #' zissou
 #'
-#' @import crul xml2
+#' @import xml2
+#' @importFrom crul HttpClient
 #' @name zissou-package
 #' @aliases zissou
 #' @docType package

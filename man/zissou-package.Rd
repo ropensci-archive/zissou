@@ -2,8 +2,8 @@
 % Please edit documentation in R/zissou-package.R
 \docType{package}
 \name{zissou-package}
-\alias{zissou}
 \alias{zissou-package}
+\alias{zissou}
 \title{zissou}
 \description{
 zissou
@@ -15,4 +15,3 @@ print("hello")
 Scott Chamberlain \email{myrmecocystus@gmail.com}
 }
 \keyword{package}
-
